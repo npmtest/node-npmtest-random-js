@@ -1,6 +1,6 @@
 # npmtest-random-js
 
-#### test coverage for  [random-js (v1.0.8)](https://github.com/ckknight/random-js)  [![npm package](https://img.shields.io/npm/v/npmtest-random-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-random-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-random-js.svg)](https://travis-ci.org/npmtest/node-npmtest-random-js)
+#### basic test coverage for  [random-js (v1.0.8)](https://github.com/ckknight/random-js)  [![npm package](https://img.shields.io/npm/v/npmtest-random-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-random-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-random-js.svg)](https://travis-ci.org/npmtest/node-npmtest-random-js)
 
 #### A mathematically correct random number generator library for JavaScript.
 
